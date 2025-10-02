@@ -7,14 +7,15 @@
 ### 1. Membuat File HTML Dasar
 Saya membuat file `lab2_css_dasar.html` berisi struktur HTML dasar untuk latihan CSS.  
 Hasil awal (sebelum CSS eksternal):  
-![Screenshot 1](screenshots/01-html-dasar.png)
+<img width="960" height="600" alt="5" src="https://github.com/user-attachments/assets/154b2a50-5c1c-441a-a259-5e7f972de4b6" />
 
 ---
 
 ### 2. Menambahkan Internal CSS
 Saya menambahkan internal CSS di dalam tag `<head>` menggunakan `<style>`.  
 Internal CSS ini mengatur font, warna judul, dan border pada header.  
-![Screenshot 2](screenshots/02-internal.png)
+<img width="960" height="600" alt="6" src="https://github.com/user-attachments/assets/26330840-c30f-4b87-8361-75bccc8c3e83" />
+
 
 ---
 
